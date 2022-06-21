@@ -1,0 +1,12 @@
+{
+  "name": "ytKidsClone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.30.6"
+  }
+}

@@ -1,0 +1,4 @@
+ytdlp/node_modules/
+*.mp4
+**/Media.xcassets/**/
+.DS_Store
